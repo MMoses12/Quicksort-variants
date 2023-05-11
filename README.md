@@ -32,7 +32,7 @@ __3.__ Number of Assignments: Count the number of assignments made, e.g., in a s
 
 ## Repository Structure
 /
-├── src/                    # Source code files
+├── src/                    # Source code files <br/>
 │   ├── quicksort_1p_l.py <br/>
 │   ├── quicksort_1p_r.py <br/>
 │   ├── quicksort_1p_m.py <br/>
