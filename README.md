@@ -28,17 +28,3 @@ The following performance metrics are used:
 __1.__ Execution Time: Measure the time taken by each algorithm to sort the data. Include hardware specifications used, such as CPU speed, memory size, memory speed, and any other relevant details affecting the performance of the competitors.
 __2.__ Number of Comparisons: Count the number of comparisons made between integers, such as comparisons with the pivot.
 __3.__ Number of Assignments: Count the number of assignments made, e.g., in a swap(a, b), which involves three assignments using a temporary variable. If any smart assignment techniques are employed to reduce the number of assignments, describe them in the pseudocode of the corresponding algorithm.
-<hr/>
-
-## Repository Structure
-/
-├── src/                    # Source code files <br/>
-│   ├── quicksort_1p_l.py <br/>
-│   ├── quicksort_1p_r.py <br/>
-│   ├── quicksort_1p_m.py <br/>
-│   ├── quicksort_2p_r.py <br/>
-│   ├── quicksort_3p_r.py <br/>
-│   ├── quicksort_2p_r_pre.py <br/>
-│   └── quicksort_3p_r_pre.py <br/>
-├── data/                   # Data files <br/>
-│   ├── dataset_10000.txt
