@@ -25,6 +25,6 @@ __3.__ The experimentation is conducted for the following values of n:
 
 The following performance metrics are used:
 
-__1.__ Execution Time: Measure the time taken by each algorithm to sort the data. Include hardware specifications used, such as CPU speed, memory size, memory speed, and any other relevant details affecting the performance of the competitors.
-__2.__ Number of Comparisons: Count the number of comparisons made between integers, such as comparisons with the pivot.
+__1.__ Execution Time: Measure the time taken by each algorithm to sort the data. Include hardware specifications used, such as CPU speed, memory size, memory speed, and any other relevant details affecting the performance of the competitors. <br/>
+__2.__ Number of Comparisons: Count the number of comparisons made between integers, such as comparisons with the pivot. <br/> 
 __3.__ Number of Assignments: Count the number of assignments made, e.g., in a swap(a, b), which involves three assignments using a temporary variable. If any smart assignment techniques are employed to reduce the number of assignments, describe them in the pseudocode of the corresponding algorithm.
