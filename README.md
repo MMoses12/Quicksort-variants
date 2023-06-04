@@ -6,7 +6,6 @@ __2.__ Quicksort_1p_r (QS1pR): The Quicksort algorithm where a random pivot is s
 __3.__ Quicksort_1p_m (QS1pM): The Quicksort algorithm where three candidate pivots are randomly selected, and the median (middle value) of the three is chosen as the final pivot. <br />
 __4.__ Quicksort_2p_r (QS2pR): The Quicksort algorithm where two random pivots are selected uniformly at random from all elements of the array. <br />
 __5.__ Quicksort_3p_r (QS3pR): This variant uses three pivots p < q < r, and at each iteration, the algorithm divides the array into four subarrays based on the three pivots and recursively sorts them. The pivots are randomly chosen.
-
 __6.__ Based on the previous two variants, two additional variants are generated with the following modifications:
   - Quicksort_2p_r_pre (QS2pRPre): Instead of selecting a pivot from the subarray being sorted, a suitable pivot is chosen from the √n sample elements, and the subarray is partitioned accordingly.
   - Quicksort_3p_r_pre (QS3pRPre): Similar to QS2pRPre, a suitable pivot from the √n sample elements is selected at each recursive call to partition the subarray.
