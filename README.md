@@ -4,7 +4,7 @@ This project aims to implement and compare modern variants of the Quicksort algo
 __1.__ Quicksort_1p_l (QS1pL): The classic Quicksort algorithm where the leftmost element of the array is selected as the pivot. <br/>
 __2.__ Quicksort_1p_r (QS1pR): The Quicksort algorithm where a random pivot is selected uniformly at random from all elements of the array. <br/>
 __3.__ Quicksort_1p_m (QS1pM): The Quicksort algorithm where three candidate pivots are randomly selected, and the median (middle value) of the three is chosen as the final pivot. <br />
-__4.__ Quicksort_2p_r (QS2pR): The Quicksort algorithm where two random pivots are selected uniformly at random from all elements of the array.
+__4.__ Quicksort_2p_r (QS2pR): The Quicksort algorithm where two random pivots are selected uniformly at random from all elements of the array. <br />
 __5.__ Quicksort_3p_r (QS3pR): This variant uses three pivots p < q < r, and at each iteration, the algorithm divides the array into four subarrays based on the three pivots and recursively sorts them. The pivots are randomly chosen.
 
 __6.__ Based on the previous two variants, two additional variants are generated with the following modifications:
