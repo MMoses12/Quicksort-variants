@@ -14,8 +14,8 @@ __6.__ Based on the previous two variants, two additional variants are generated
 ## Experimentation Setup
 To compare the competing algorithms on datasets of size n, the following methodology is employed:
 
-__1.__ Generate n integers within the range [0, 2n) pseudorandomly using the random number generator of your computer.
-__2.__ Perform the sorting experiment 50 times to calculate the average performance of each competitor for each performance metric. Compute the variance of the performance metric as well.
+__1.__ Generate n integers within the range [0, 2n) pseudorandomly using the random number generator of your computer. <br />
+__2.__ Perform the sorting experiment 50 times to calculate the average performance of each competitor for each performance metric. Compute the variance of the performance metric as well. <br />
 __3.__ The experimentation is conducted for the following values of n:
   - 10,000
   - 100,000
